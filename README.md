@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! 👋 I'm Ananya Suresh
+
+# I'm a Computer Science student at Northeastern University, minoring in math, an I'm an aspiring software engineer, interested in full-stack development and AI/machine learning.
 
 <!--
 **ananya6suresh/ananya6suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
